@@ -1,2 +1,2 @@
 # proyectostar10-droid-starter
-Repositorio inicial para entorno del agente
+Repositorio inicial para el entorno del agente
